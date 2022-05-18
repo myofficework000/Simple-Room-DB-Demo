@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">FirstRoomDBProject</string>
+    <string name="enter_first_name">Enter First Name</string>
+    <string name="enter_last_name">Enter Last Name</string>
+    <string name="insert">Insert</string>
+    <string name="select">Select</string>
+    <string name="update">Update</string>
+    <string name="delete">Delete</string>
+</resources>
